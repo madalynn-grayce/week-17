@@ -3,3 +3,10 @@ img{
     height: auto;
 
 }
+
+.logo{
+    width: 75px;
+    height: auto;
+}
+
+#lol {background-color: pink;}
